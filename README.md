@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>fdf – Wireframe Renderer - 42 project</h1>
+  <h1>fdf – 42 project Wireframe Renderer</h1>
   <img src="./img/fdf.png" />
   <br>
 </div>
