@@ -1,6 +1,6 @@
 <div align="center">
   <h1>fdf – Wireframe Renderer - 42 project</h1>
-  <img src="./bin/fdf.png" />
+  <img src="./img/fdf.png" />
   <br>
 </div>
 
