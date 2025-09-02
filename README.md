@@ -54,6 +54,7 @@ git clone https://github.com/LogUmi/fdf.git
 cd fdf
 make
 ```
+This will generate an excutable fdf.
 
 ---
 
@@ -110,7 +111,9 @@ Project developed by **Loïc Gérard** – 📧 Contact: lgerard@studend.42perpi
 ---
 
 ## 📜 License
-This project is licensed under the MIT License. You are free to use, modify, and distribute it - see the [LICENSE](./LICENSE) file for details.
+- The project code (FdF, MiniRT, etc.) is released under the MIT License.
+- The included MiniLibX library is released under the BSD License (© Olivier Crouzet, 1999–2015).
+Both licenses are provided in the [LICENSE](./LICENSE) file of this repository.
 
 > ⚠️ **Note for students**  
 > If you are a student at 42 (or elsewhere), it is strongly recommended **not to copy/paste** this code.  
