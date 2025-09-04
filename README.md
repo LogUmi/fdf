@@ -106,18 +106,19 @@ Applying this fdf colors defintion (no colors in map)
 Screen 1920x1200 detected
 Windows 1064x1064 opended
 ```
-<img height="500" src="./img/fdf1.png"/>
+<img height="750" src="./img/fdf1.png"/>
+
 ```bash
 Regular end of session on esc key press
 ```
 Other screen outputs:
-<img height="500" src="./img/fdf2.png"/>
+<img height="750" src="./img/fdf2.png"/>
 You can move or zoom the wireframe:
-<img height="500" src="./img/fdf3.png"/>
+<img height="750" src="./img/fdf3.png"/>
 
-<img height="500" src="./img/fdf0.png"/>
+<img height="750" src="./img/fdf0.png"/>
 
-<img height="500" src="./img/fdf4.png"/>
+<img height="750" src="./img/fdf4.png"/>
 
 ---
 
