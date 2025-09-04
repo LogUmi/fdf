@@ -112,6 +112,7 @@ Windows 1064x1064 opended
 Regular end of session on esc key press
 ```
 Other screen outputs:
+
 <img height="750" src="./img/fdf2.png"/>
 You can move or zoom the wireframe:
 <img height="750" src="./img/fdf3.png"/>
