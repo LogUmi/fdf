@@ -9,7 +9,6 @@
 ![42](https://img.shields.io/badge/school-42-black)
 ![Status](https://img.shields.io/badge/status-completed-brightgreen)
 
-> IN CONSTRUCTION ... TO BE IMPROVED
 > **fdf** is a 3D wireframe map renderer built with **MiniLibX**.  
 > It allows visualization of height maps (`.fdf` files) in **isometric projection** with zoom, rotation, and color gradients.
 
