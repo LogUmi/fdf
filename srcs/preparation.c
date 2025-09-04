@@ -3,14 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   preparation.c                                      :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: lgerard <lgerard@student.42perpignan.fr    +#+  +:+       +#+        */
+/*   By: lgerard <lgerard@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/02/26 13:11:55 by lgerard           #+#    #+#             */
-/*   Updated: 2025/03/03 13:55:58 by lgerard          ###   ########.fr       */
+/*   Updated: 2025/09/04 20:04:33 by lgerard          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "fdf.h"
+#include "../includes/fdf.h"
 
 void	set_isometric(t_map **map, double new_x, double new_y, t_dmlx *mlx)
 {

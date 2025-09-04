@@ -4,7 +4,7 @@ DIRSR =	srcs/
 DIROB =	objs/
 DIRLI =	includes/
 FILEH = fdf.h
-SRCS = 	fdf.c \
+FILEC = fdf.c \
 		map_load.c \
 		init_tools.c \
 		preparation.c \

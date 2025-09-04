@@ -6,11 +6,11 @@
 /*   By: lgerard <lgerard@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/03/01 23:57:14 by lgerard           #+#    #+#             */
-/*   Updated: 2025/03/02 14:55:27 by lgerard          ###   ########.fr       */
+/*   Updated: 2025/09/04 20:02:42 by lgerard          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "fdf.h"
+#include "../includes/fdf.h"
 
 t_zpos	*ft_newzpos(double z, t_dmlx *mlx)
 {

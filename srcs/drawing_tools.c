@@ -6,11 +6,11 @@
 /*   By: lgerard <lgerard@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/02/27 02:59:48 by lgerard           #+#    #+#             */
-/*   Updated: 2025/03/02 19:24:05 by lgerard          ###   ########.fr       */
+/*   Updated: 2025/09/04 20:03:17 by lgerard          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "fdf.h"
+#include "../includes/fdf.h"
 
 double	direction(double a, double b)
 {

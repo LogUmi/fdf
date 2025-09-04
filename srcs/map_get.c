@@ -3,14 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   map_get.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: lgerard <lgerard@student.42perpignan.fr    +#+  +:+       +#+        */
+/*   By: lgerard <lgerard@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/03/01 11:36:40 by lgerard           #+#    #+#             */
-/*   Updated: 2025/03/03 17:46:01 by lgerard          ###   ########.fr       */
+/*   Updated: 2025/09/04 20:04:15 by lgerard          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "fdf.h"
+#include "../includes/fdf.h"
 
 int	z_inlist(t_zpos **zpos, double z)
 {

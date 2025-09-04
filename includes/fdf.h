@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   fdf.h                                              :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: lgerard <lgerard@student.42perpignan.fr    +#+  +:+       +#+        */
+/*   By: lgerard <lgerard@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/01/14 16:22:35 by lgerard           #+#    #+#             */
-/*   Updated: 2025/03/03 16:42:27 by lgerard          ###   ########.fr       */
+/*   Updated: 2025/09/04 20:00:52 by lgerard          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -18,9 +18,9 @@
 # include <fcntl.h>
 # include <math.h>
 # include <stdint.h>
-# include "libft/includes/libft.h"
-# include "mlx_linux/mlx.h"
-# include "mlx_linux/mlx_int.h"
+# include "../libft/includes/libft.h"
+# include "../mlx_linux/mlx.h"
+# include "../mlx_linux/mlx_int.h"
 
 # define XK_ESCAPE 0xff1b
 # define XK_PLUS   0xffab

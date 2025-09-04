@@ -46,9 +46,15 @@ This project introduces:
 
 ## ⚙️ Installation
 Requirements:  
-- Linux  
+- Linux
 - `make` and `gcc`/`clang`
+- MiniLibX for Linux needs the dependencies `xorg`, `libxext-dev` and `zlib1g-dev`.
 
+if needed you can install the MinilibX depencies with:
+```bash
+sudo apt-get update && sudo apt-get install xorg libxext-dev zlib1g-dev libbsd-dev
+```
+Then:
 ```bash
 git clone https://github.com/LogUmi/fdf.git
 cd fdf
@@ -66,7 +72,7 @@ This will generate an excutable fdf.
 Controls:  
 - `Arrows` → Move map  
 - `+ / -` → Zoom  
-- `R` → Reset  
+- `SPACE` → Reset  
 - `ESC` → Exit  
 
 ---
@@ -91,11 +97,27 @@ Controls:
 ---
 
 ## 🔎 Examples
-TO COMPLETE
 
 ```bash
-./fdf maps/42.fdf>
+$ ./fdf maps/42.fdf
+Special feature detected and applied
+Loading map ... done
+Applying this fdf colors defintion (no colors in map)
+Screen 1920x1200 detected
+Windows 1064x1064 opended
 ```
+<img height="500" src="./img/fdf1.png"/>
+```bash
+Regular end of session on esc key press
+```
+Other screen outputs:
+<img height="500" src="./img/fdf2.png"/>
+You can move or zoom the wireframe:
+<img height="500" src="./img/fdf3.png"/>
+
+<img height="500" src="./img/fdf0.png"/>
+
+<img height="500" src="./img/fdf4.png"/>
 
 ---
 

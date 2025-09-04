@@ -3,14 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   map_load.c                                         :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: lgerard <lgerard@student.42perpignan.fr    +#+  +:+       +#+        */
+/*   By: lgerard <lgerard@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/02/22 21:37:26 by lgerard           #+#    #+#             */
-/*   Updated: 2025/03/03 17:42:53 by lgerard          ###   ########.fr       */
+/*   Updated: 2025/09/04 20:04:26 by lgerard          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "fdf.h"
+#include "../includes/fdf.h"
 
 double	ft_atoifdf(char *str, double *error, int i, int flag)
 {

@@ -6,11 +6,11 @@
 /*   By: lgerard <lgerard@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/02/26 22:30:37 by lgerard           #+#    #+#             */
-/*   Updated: 2025/03/02 19:24:30 by lgerard          ###   ########.fr       */
+/*   Updated: 2025/09/04 20:03:37 by lgerard          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "fdf.h"
+#include "../includes/fdf.h"
 
 int	on_screen(t_dmlx *m, t_line *l)
 {

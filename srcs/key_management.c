@@ -6,11 +6,11 @@
 /*   By: lgerard <lgerard@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/03/02 20:03:37 by lgerard           #+#    #+#             */
-/*   Updated: 2025/03/02 23:24:35 by lgerard          ###   ########.fr       */
+/*   Updated: 2025/09/04 20:04:08 by lgerard          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "fdf.h"
+#include "../includes/fdf.h"
 
 int	ft_key_in(int keycode, t_dmlx *mlx)
 {

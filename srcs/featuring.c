@@ -3,14 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   featuring.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: lgerard <lgerard@student.42perpignan.fr    +#+  +:+       +#+        */
+/*   By: lgerard <lgerard@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/03/02 00:56:33 by lgerard           #+#    #+#             */
-/*   Updated: 2025/03/03 13:50:39 by lgerard          ###   ########.fr       */
+/*   Updated: 2025/09/04 20:03:52 by lgerard          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "fdf.h"
+#include "../includes/fdf.h"
 
 void	reset_cmds(t_dmlx *mlx)
 {

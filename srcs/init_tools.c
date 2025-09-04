@@ -3,14 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   init_tools.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: lgerard <lgerard@student.42perpignan.fr    +#+  +:+       +#+        */
+/*   By: lgerard <lgerard@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/02/22 22:23:43 by lgerard           #+#    #+#             */
-/*   Updated: 2025/03/03 17:42:07 by lgerard          ###   ########.fr       */
+/*   Updated: 2025/09/04 20:03:59 by lgerard          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "fdf.h"
+#include "../includes/fdf.h"
 
 void	init_dmlx(t_dmlx *vars)
 {
