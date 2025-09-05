@@ -7,6 +7,7 @@
 ![Language](https://img.shields.io/badge/language-C-blue)
 ![Graphics](https://img.shields.io/badge/graphics-MiniLibX-orange)
 ![42](https://img.shields.io/badge/school-42-black)
+![Norminette](https://img.shields.io/badge/norminette-passed-brightgreen)
 ![Status](https://img.shields.io/badge/status-completed-brightgreen)
 
 > **fdf** is a 3D wireframe map renderer built with **MiniLibX**.  
